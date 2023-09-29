@@ -4,7 +4,7 @@ import Products from './components/Products';
 import Contact from './components/Contact';
 import Navigbar from './components/Navigbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import data from "./Data.json";
+import data from "./components/Data.json"
 import { Routes, Route } from "react-router-dom";
 
 
