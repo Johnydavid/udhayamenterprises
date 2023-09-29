@@ -1,0 +1,14 @@
+.cardText{
+    background-color: cadetblue;
+}
+
+
+.cardcontainer{
+    display: flex;
+    justify-content: center;
+align-items: center;
+
+border:10px;
+box-sizing: border-box;
+margin-left: 100px;
+}

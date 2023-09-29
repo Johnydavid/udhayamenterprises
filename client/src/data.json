@@ -1,0 +1,18 @@
+[
+    {
+        "cardName" : "Panchakavya Vilakku",
+        "imageSrc" : "F:/udhayamenterprises/client/src/components/images/pgavyavillaku.jpg",
+        "imageAlt": "Panchakavya Villaku",
+        "cartText" : "Handmade Cow Dung Panchagavya Diyas ",
+        "btnName" : "Add to Cart",
+        "price" : "Rs.10"
+    },
+    {
+        "cardName" : "Pasu Ghee",
+        "imageSrc" : "F:/udhayamenterprises/client/src/components/images/pgavyavillaku.jpg",
+        "imageAlt": "Panchakavya Villaku",
+        "cartText" : "Handmade Cow Dung Panchagavya Diyas Vilakku Deepam",
+        "btnName" : "Add to Cart",
+        "price" : "Rs.10"
+    }
+]
