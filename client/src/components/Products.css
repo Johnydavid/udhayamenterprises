@@ -7,8 +7,22 @@
     display: flex;
     justify-content: center;
 align-items: center;
+border:30px;
+padding: 30px;
 
-border:10px;
-box-sizing: border-box;
-margin-left: 100px;
+
+}
+
+.cardImg{
+    width: 10rem;
+    height: 10rem;
+  }
+
+.badgeClass{
+    background-color: black;
+    color: greenyellow;
+    border-radius: 5px;
+    width: 50rem;
+    height: 50rem;
+    padding: 10px;
 }

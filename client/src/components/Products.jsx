@@ -1,33 +1,46 @@
 import React from "react";
-import data from "../data.json";
+import data from "../Data.json"
 import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
 import "./Products.css";
+import Image from 'react-bootstrap/Image';
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 
 const Products = (props) => {
   return (
     <div>
       <h2>Products </h2>
-      <div className="cardcontainer">
+
+      <Container>
+     
+      <Row>
+    
+        <div className="row text-center  row-cols-md-4 g-4 ">
+    
   
       
 
         {props.data.map((item, index) => {
           return (
             <div key={index}>
-              <Card style={{ width: "20rem" }}>
-              <h4>{item.cartText} </h4>
+              <Card >
+              <h4 className="cardText">{item.cartText} </h4>
+           
                 <Card.Img
-                  variant="bottom"
+                  variant="top"
                   src={item.imageSrc}
                   alt={item.imageAlt}
+                  className="cardImg"
                 />
 
                 <Card.Body>
                   <Card.Title>{item.cardName}</Card.Title>
               
                   <Card.Text>
-                  <badge>{item.price}</badge>
+               
+                  <badge className ="badgeClass">{item.price}</badge>
                   </Card.Text>
                  
                   <Button variant="primary">Add to Cart</Button>
@@ -37,7 +50,16 @@ const Products = (props) => {
             </div>
           );
         })}
+         
       </div>
+        
+        
+      
+       
+      </Row>
+    </Container>
+      
+      
     </div>
   );
 };

@@ -1,18 +1,47 @@
 [
     {
-        "cardName" : "Panchakavya Vilakku",
-        "imageSrc" : "F:/udhayamenterprises/client/src/components/images/pgavyavillaku.jpg",
-        "imageAlt": "Panchakavya Villaku",
-        "cartText" : "Handmade Cow Dung Panchagavya Diyas ",
-        "btnName" : "Add to Cart",
-        "price" : "Rs.10"
+        "cardName":"Panchakavya Villaku",
+        "imageSrc":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgWFhYYGBgaHRwcHBwaGhwcHh4cHBoeHhocHB4cIS4lHCMrIRwcJjgmKy8xNTU1HCU7QDs0Py40NTEBDAwMEA8QHxISHzQrJSs9NjY0NDQ0NDQ2NDQ9NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAOEA4QMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAADBAABAgUGB//EADkQAAEDAgMGBQQCAQIGAwAAAAEAAhEhMQNBUQQSYXGR8AWBobHBItHh8RMyQlKCBhQjYnKyBxXy/8QAGQEAAwEBAQAAAAAAAAAAAAAAAgMEAQAF/8QAJxEAAwACAgMAAgEEAwAAAAAAAAECESEDEgQxQSJRMhOBkaEUYXH/2gAMAwEAAhEDEQA/APlABRGlaa1WxqnbLJk02UTDoVpjZRSyJPfdEt0OUhY+mi3gSaRTP4+FkU48M0TZ7xmbeUTy/CU3oYlsGxkHjBoOf3WsOtKXmJpkjvbEgGAL5TNx1S+8QYi1+8s+oWJ5Nxg3uQY4Ee1dZoOqYw21IJnKOHPXviqArrMjhE197pzCYC2QIFybVzPOkpdVoZMjGzYZgHOkm/NNDCEzegEDnI9yg7M4AgAfSRSuQAiBfroU2+vkR1pHpHVR232D6gv4x0rbgZ+Vh7KxqDT7+qM5wkGZBkCO+BWNnFZItI87nmK+ixN+zsAnsg1ynrIjmrczWTQTxv8AYIm0HKDrQaT1/Cxj4sgOAvSuUnP06rU28HdRB7jvCaRTnVwB6/CBtFCTUX504TWQnHmoMETBgiwIPyDz80k9lpjUngQaHyAM8FTLBcmAJIrWojoL5prEw4qDSa50F47zWWYNCTQ1I86mfOVtr5Bm/wBWecQudfo5SIsZBIJzvlkKd6rOKZMaSdM/z6FMbgBBrcXicuiWxmmnGnrU+Zn0TE8sFrCE8bD+3BVh4dBOZ14hMvAJEGnzYrT8OBfQedJTe2sC+v0QeLcO/VAaDPr95TeIz27PFCc3l3dMmhVSKuPFYceaJuxM9/eiE5NQpmt8KKpURYF5DxVaaJVNzW2pTHpBcIce+6VRnHLL8n7oeCUZjbfPtwSq9jpReXdaVnqm9nYJJHmZi0SPZLQLXHPIx+E3s1LiImnDMJVPQ2Vs04EjKpIgg1gEapY4cZgmKDU111kUTTWVNoAGovERzPstOwgGtM6+hloj/d6IVWAnOQOAR/UgTTWN6K8jQLo7JhbrS03Pl/Y3OtItxtmozD15kcdPOc9F18Fm8PqoBcnloNB7lK5bwhkyY/imgmWEZ11z5EI7pDqkEAlwBrOflCjMAk0MCZk3mKj2vqjsY1zYJJBoHUBqfeTB8gpnQzBTjvSQADw4giR19FGtnQZcBp724KnbOW2BNbaWk8IgHnzRYgkUFoIzneEHSs9Utv8ARmBZrMyaxeDcGhHp2UEu+oUkGk6mB8TXiE87CIndFaX4Nz6e3NCcyoNz8k06Up9pRTSOwIEAXkUFTnQ0pY/STTXyQjhkNqJ/tA47pAT7RBcSPXhceqUxJmsTWD7jyPVOmsndQWOYaARYkHPKPOx6oDsf6SYyn0MWvMBNYji4ugf1bM67v/6HlKBi4e6YGYJOVdD9uXBNnH0CkVhkAsO7O9A1tYT5fKV2lwbE91pHQIuE0/1rT3j8DqfNfHYayKCpOkz+0yUuwFZwBYBJEa8c78VvEeI9e/KUBxivAz6fnsILnzA6xwondcic4Lc129IrAr6ILzF8004xyI9a09UkXEjvv9I52BWgeI6+aCWXRnjS6FMHVOQii9xWr3lEWWBhGmd9VtoVMCI0e3ZS6Y6Uba2t+OffDyTOFMiOFqalDZkmcAVkpNUOmTLx7zl3dMtBgUiY+Z71VYgPCKUvncHL9LWDM0pfLPKZ95+UtvQ1LYyxskCCOnCK+iexWCCCNeURPw30QMNwaSTkJimUTzt6JvYwSbTQXrIIqDSJpbjxUtv6UyvgpjN50giNZqNf8R6eXT2CCGtiIrXQtqRN4omMPZZaJAmn1a0Ay7rWEJu6w3a0jLeFIIoONPfVJdd11SO1O2xr+On0i5rznKvHmi4eAQIDTnQZz9Un1oudieKtbAa1xAM0gCs1k17zRMPxxgNWuFqAAiA2LyD6IX43NjOBT8ni9ZHcHCIcTJv/AJWiAMrR+ULGa0gtaYIAnhEROWR6lFZ4ix8brhJIEGlyJvz4oW0AyQIFILrQaQfdK62qxSwMhzW5eQv0ilBmI5TWmqUaIBM1p7GBSxg+vFHwy0trBNTpLTIHpRI42NuS0AG1Zp5DmUzi43ddUdyXPHOWFxGgVIy+8f8AsVz3tYQXOJAB4TSwN555yg7ZtLWO3nP3RAm14yGc14LzW2eKveTBgZQAPW69bi8SZ/7PJ5PM5K9aPTDcJu4TM1EVEG16ImI1saQIrWlovyFV4gY7h/V0ckXB8RxGmjyeBr6FOfjS/gC8rlX09WzAeDGRs4WAj7JfbMMS7So9Ip3kEpsvjswHgyLRFfsultDQ9m8HC8zQg11tdIvgcvKKeLy1X40v7nCe241mNBN4Q8cNBb5eVD8QnGMg1Ft6bam/SEptDaSL5xfy6ope8DKWsluH0DifmT7JXEESOPpf5TLgN2P/AB9T9ylnRobo5AoCGoWIjgW+ELEvZNT2IpaL3+HuopPAqIgAze++SK1vz+PhDDvT5R2AlJookKxvd05s7MvKegQsNki36TOGYgzFq6GZJ4qeqKJk0WSQK15ZZweM9UVhEwL0vlQ63pHXgsNdJgXtppHmiNIy0kdIETXz4BKY1BsHDvO8LiZGcnWp7zTuyEtJO99IE11JkHl9rrnHGDYrQt+nnTpn1RDvvAMyKSLSBSAinx6vdaQnl8ueP8Z2/wDQfxDbnv8ApYC1guRQnhcECMqeq5eJtzMNpANQTRvsVrxrav4mBgkPd9V6NEQKDVeXa0uqruLimVhLCPL5OSreW9jzvFnkzSn3muqLg+LEulwvk0e32STNncSA1pJNgF3ti2FmGJcBvn/I2/21oed5TK6oFJscw3AtbvBwpJBaTGVrT61CaZt5A3AZBvvVgAZDzlI7RtIBO+SATSL5Hzyvqk9p8Ur9DRa8QZ1Saia1SyNjvLzLwdx/iL2xEUuYJ8ic0sHlxkwRNY4m+tK+i4eJ4jiETzsYA1AFz1Por2fxJ4q4A8IiKRTUc/wunimf4pIK6uv5NsJ4zsLy+WMJblBBNtL9BZcUMPmvV7Ntwe1xIqRQUB/29AJrmhbVsTngEtgwd10X4E59KJirGmJcnmjg8VkMPlquj/yztP2sOwvJM7A4OfELqeF+I7hh1WcBWcq6ckq/DosYYhw4VXezjvbQ4Ey0wHjO5FP32Um5/wBUaHoM+nwmv4/+mH7tDXMmTS9ozSO6CTka507+6jpYpnpcVdoRnaLCIztwqB6ILvqr69fsjOZQ/J87ITWRNKA06kBEvRtLYBw50WH3nlnwRnnyqhDvoUaYloJDNVFmO6KIgf7BGiqYaPv31Sjb+aaw3d980qhsD2GeMd+6LvCYty1QGk+o6fv2RsInl62GanpFMstoINNc5rea8+7JnCq6mpE8ICXLa8L9K+ZRsE5XMTI55dSuS7UkdddYb/RNv2lrWOdmBEccqdEfYy7+NlbC1phon3mi4njjax62XW2bDBYwhwsYDTAqBW1TQdFdhJHjZyzieLOc/GdvE8AchkAMgs4WFFK+Q6lPbVhQ80ImDJzHCtVWz4RJmajzRZ0chvYcJmG0uJhzsyIIGk5fhK+IbRvtLhSaDQx50y1W/ERDRBBBnLKBB5zJn3SuzYW++KwPfO10GUl2Y6Jy8GMHZXvqc46BdTZPCQQQbrp7Ns1E/h4Ki5Od/CuYSOMPD3gECQM4JE84ug4+xuJJcN+kVmeFRpxlerZhiKiUN+EDSEtcwWMHgsTZXMO8wRGq62weJuDd0w4ROQg10PLKkLpbfsUSvODDOG+LtPEjly91bw8ivVE3NDX5I6GI9r3EhkWkb0yecZVS2PgxRoJM1iKJrG3i0FkwC2ROWgkin2WHCHVd9Rk1gdE14T0TbOacCsRdAxdn3nta2ZJA63XT3QZPn6d9ExgbNRrorN9GngRwvot7YOAbW/daGjkBpE1SIbX58581PEMYHEIB3g2Bp/5ZrDK9Pz+UivZdwLE4NOw4m9x65FCcR7dM03iRFxp36dEk/Ujl9ukIZeRtLAJ7jUHuqyHXoY7781cRdZmneaaJZumnqrWlFuTMGGmqZb9vulW3TANfNAwpHMJwNDYUPPuE4wZcLa0r3wSOG6By909sxnS2WtetlPZVBoEHL4tbqKoOE8NeIrUzHzxFUw+QQfj8690Su0iHUrFCO/dZxvFIzmntDQt4t9VZk5/dTwjH+loAk1bzF+yiPYx1IgU6/pcxjyx8g0+y9FLKweP6Z6Pa8GZsHCKSI5X9Ups7y1w3jIzGdNCO6ordp32yIMWm9jNenoqwS7eyA4f905HVB8NRjxR87o3fpFiTUml/JP8AheygNBi/dOCztOzyJiTBtWOmSc8Fg4bYyO6fhTc9fhos4pwzoYLE0xqwxiO0Ly6oqUkaFT2ojWqYoS+2wuuhbFaCCCvNeK4IBZqXaaVXpsRcHxT6nsY3+0ekmT0IVvjU3QjkWhvZ2h7AXhrXkkDStj9V5kU1XNaG731gllaYe7vTlM0A+yM/H+iCZzNJtqOfdl5vxPbHfyECgb6k1K9KFlkXIsLB29kbugl0bxmcxwSmNtBq1sAWcRc5ZLj4m3GxMnQU5VyR8HEIBJuAfSw6pnXG2LTzoBs7KT5VFdSfT1R5MCtvZDYYFq91Oq1hmSaU46XzCQ97PQnWg7XU4X85AQHmQDpQozIgjSJ77usFlCBr6oVoN7FSShl2qK7RBxSE1CKD+atD/kUW4YOUbY2qYHt56Qlg6vmm8EV75JVDYGMHDMce/wBJzAgTPT4rr9kBhC2y/WmsVpGsHqp62UzocImDE6Xvaacz3cOLg0PTvjREbifPDlyTOzMDh9VzWJ8vRJb67G9e2jzuOwtMD98Em+t6ld/xHZbx3RcjFYM76/dX8HMqnB5fkcLmsoX2bFLTeB3VdXD2ovO7FZvOQIitFyHNylDw8ZzTInQ8iqGskp63YsSWbpIORIJOpFjAkGc785N4WSzFcyPoeQBNDvE/Sb2uKariMxgx0MkxlMyLiuZA98l3sAte0ua2XCN0xwpaxBy4KXlWM59Mv4GrWPqO8wIzQuJs3jDt7dxQJsHgRJy3siDSvuF6rw7CGO4bjQAYBAdvAnMif6jhWIXl8vBSrC3+ilVrejGzbOCHE70i0NkeZJolMQ1XsPGNgbgYVCZtwmMh5eq8pgBv1Fzd4C0u3Wzq43PIEc0L4Km+v0GeROe3wRxFxNoxAcSf6/T/AHzGg4U9yupt+2Ma1267eJkEigGoGuY6wuPi4xLQxsQQd4mAdQaG/P5VvDxuNsXX5FeKw3dLSHXnSunKPVeY/ka9xNAZoLUmg0oEz4rtP07g4Xvl8SOR404sZhehxzrJFy1vB2BszTBztl6cVjaMPcjib8gCRwuEXw3amPEPdDgcgZPwiuAeHXvIMCB68fdbWfQMNZTE2Z9Br3kisZDZ1+O/dUQA09OXdVTDAGhtyt9+qnez0EsGi2mk39vJZbQRGntC0M417jSqyTJyXGsVcEB/FNYiXez3TJYmkahRVJURgBsO6awRCVZdNMj1SaGwNMNfNGw2+3E+6Aw5+uk9lMMbSueWk+uinopkNsjATlMT04R3RPbPA0mL6gQT0n1SOzNEkRSxpTiugxtoEa9IU/I9j4WjO04ciRUfhcna9jzXaDt6mfpXTVTHwxEaX6HoKLOO3LwdycaayeSdspmInyQjsw4LqbbtQbWIJi2VLTnmuLi7VM3vQ6L1uNVjZ4vJU5/EO9xyMnhwzXT8G8Va2WukTpF7TW9AOK861xRd/e4Huo4plQqnDA4+Sorsj021bU3/AAMkR/l/aTUtmJ065VXtP/jvxH+LEIf/AJUplOsL5UzF/wBQ87FGw9qLTLX1FpkGOY+dUh8Lxp7/AGV/8mayqXs+5/8AG/jbAGsaQTUmKxNB53Xz7bfESab1B/UA/YDVef2fxNu6d98E+fmc/wBqP8aYz+jN91PqOud65nRK/p06dNbY+a4o41OVr/J0mAjec6ai31a30j3qkds8RbH0wXHT/Gs/V19Fz8XxbFeKmBIMNp5F10o0d806eJ+6JuXyE9SU9iC5ib3SsFiemSYFGOLXAj3heh2Zxc0SPWlaLg42HCe8McYLZoR0zp0XVtGIPjtqZ4Ee3fNRmH9OsXjitbYR9MEm+Yy3fNYwX/HRS2sej0eGsysmnMEdUAN+UfEfAiZ/aA4998UE5GVgE73QMQozigvTZE0bpx9FSrd4KJgvYVhTGG/8cylG/Pd01hDrpE+1skqkNljTK+Ve/LNNYVpp3QEdEnhTPd44T0TTDSOd+EKeimRhjyMq5fdNYGJIiDa/GyRw2yM9E1gOpQa6U7KRaQ6WNtMOAMAVpbONapDxLbC10VtU3oLDimf5agxy5dkrj+JYhcwkk24eQCb4vHmuz+Evm8rUqV9OLtW0FxklKwtORMLCJvZep6PJBhhK0GeScGzUWC0EkQuyaL7/AJrQhWGQtbsrDkYka+6tgUdh0nkiMbHJdk0y01RGNpKp7ItZaZbNczgrB5K3tWwRoVQBJiEJwtitTWwYJpIpkY1Vswd5wE+ia/lNQGmMqEdDzXNnC3iDvqaK0m/GPssYdjTQIO04288mhiBI5T3yRWtoOE+STZdw/wATTzI5FZce+qy4QO/P5ViCgxgZkFmgYgR3Z9UviWTJFX6NTxUWfJRMFZNsMSj4bkCEfDCXQ2R7DMAjPpp+OiPcR3ZJ4DoOvL1R489eWceSnpbKZehxlB2bIm9Tjre36KWL6UF7d9OqLhtppSgnOOHP2SWvo5P4GxMQgGJJ96UjzHuuV4i4uZG4WkEbwy4fHVPOeBBNgePmBqeSS8SxzEEVOZyFLHIZQqvHWEef5e6TOPhYcnrK6GHhd80thET+O+wnsB8xII4zWAFVTI8F/wAfEnLjqa5WSu0TJpC6H1WHeh4JR+7bPlmEKZ2BV7LKmNRN0kyEdrIEwibNmcsTxjAPeaBgYtYKPtRoeiRIWpaOp40dJr4ylMtLYsBnUGeUzC5LMYi9UyzahQH1rzXNGHQZh2MtA5zX4/CIMFsf3HIfdc8bS0CBJ8kN23HIc5g/FkOGdo6WFjw7JoIPNU/HFAK0y6Lj4m0OcQBQJlwIbQ1j9Qtxg5POjGbiLFxjqjsPkhMN9furbnKRWy2NG3v91Gmiy9477qstesxoLOy3jvogYhRXZpZ9kcoC2bp2VayojFBteevmjsalwaouG+3T2lLobI3gtrw7FD3dMjXvkJ7qk2EwaeQ56+SYB65U7/KTSHywuGK/HnatMrfCZwgIOWUGtL/fyKAx1q3t798kRhzimvU+iVQ5GcZtxHrl5U74LDHhzRrY69wrxG6cSffvkkjiOYZFk3heGTeROUbxsCHAhtbUqKobcQDIzkAM+Oi3/wA0DWSXO0FBxR8PeddtP9WXA0OSp/8ASEG5+Weg15pdrHb0Z5gW66p5jCP6kumZMU/f2WjisAIJAMRfjlx1hdk3ABjQKD7hLbViGwotYu1CIbeMrDJJuMZn7rUvrOb+IztLqAd8SlYTGKCRKA3Qo1SZlS0jIC01q2GLZwTlVbkDANU4o7dlcUxs2yjeFOuULMpG4YHZcCPqKY2hzQCCPqpEUgTJJEVm3VGxXhjZOppqucXyZNz08uCBvIyJ2Ea6DqqKET333REY6nfHvyQNFCfwpwK2GKsQ6KMKz4b9LcfZLuKM+iA8opAo1XRRZURiwrb+aYwwfjlwS7SmcDBe8gNaXagCb6pdDZCsPvzRmGv5W/8A67FaN44bwMzum/GJ76oLXkzly+PRJe/Q6WMiwjoNLR38IzLx+fybeyXa7iB+kVrz3x7CXSY5M0489NJ1iEttODJpy+LZ6ptrhMUmudjnxPvVG3Qh7dWa57I87iYcZcVG7S8SA4wevXNdfaNmEHLv0XPx9mj9KmOXJFycGGVh+IvaZ/NcigPxw7+0nmAPlU/AKwNnpKarkT/Toj8fIWUY2TVabgUnQd/KYayOcR3paPPgsqsjI48E/jy74pXaMLTuyea7lw91hzZp33VLmsMa4TRz2kjiiN2gSKHiEfEwKU7qknMTprJPUYHW+IMFx6LL/Ev9LYOp+yRcxbw2LdA9Xk0SXGSVuI0RGs07sh4tPJDnLGqeqB79SVpjp780NwVtNUTQKew71pqC5y3KBrQxPZHlCet4iC4rZBphd4KlcqIwB7YsEOLnOkMYN5xzvDWji4kAeZyXYdgvfgN3QZcRuYTGn+p/zn/KC1wLjqNVyC6MFoH+T3E/7Gta3/3dTiulsXir8PcxmkjcaGQKxEQWyIEgEV/1EiazPab2hiegON4Xj4FX4bmQQCQR9Jifq3Sd01FDHKyLguGMC1w/6o/q4XfAkscBdxrDrkwDM06G1+NE4bWu3n77nHEeXTJNXNa3MN3iBOQuAacHDxS1wc0wQQW8CDIjvJBtrL9hywjSDnSOc635WRQ6I9Kz5+/qtbWIxXxAG+4xoCeGlkOKyKefv35LPY5MOx1TlXz0r0Rw/S2VeF+CUD0drqVSqkZNByZv333khPYDxz9r1VF9JWG4vG36781iTCbX0x/D1QX4femXfNMucKd929OKA8/m+dPhMnIukjOI0XHCiC8jgPLidOK2/Epp+CbenogymShbaJFJ5d/K1hTPeQlYYfT5EH37ykwYHZqiZieNhGVJHl31KUxGV6pgOgobzen6XTpg1tCjgiNMQe6Ke6tNbFpBWD6Uri6orjSe+KFilZK2dT0DAqtAVV7kKPuEWQMYNOCuaLMqErAyPKA5EdZCJRShdMPKiyoiBydHZjv4T2CrmO/kYMyI3cRo8g13+wrGzbRuGR+q3HoUnh4pa4OaS0tMgjI8F0DjYeJVwOG7/ItbvNJNzuyCyeEjgEprYyWdj/h7Ba7EZhkb7MUtDmmlXzuFp/xI84AN8kW7GBjua4brWOJcTXdaKkf9xIgDUlMeEbXg4BLt4YjhO4WsIILgQf7Rrr1SW17bv0aCBIJky51IDnOzgUAgAaJWH2f6GLRMTELy5xoXGb2knPzVsPn+kuHd/hEDhEd+67AaYVju++lURrzPuli4914+S0HIXIaob36LD3QZmp09PZCa71Vvf89+uiFSa6Lc6eN6Zd98xOxYMRw6262V71/NL4j5PLv4COVkCqwaDvv6/tRzq+lu+PohNNZB/HcrTn8UeAck34Mqw7TvL2QS70UY5b1ByFe6youQ3GTKzv8Awu6ndiyK+6p4oFgvUciwBk25AN1bnLKJIxvIU+6yc+akqpWHNlmipxVOKwXLUjGzTkIqyVlxRJAUwyirfUWg5CDvqit+SoogYxB8PLmVp3z91FEv6N+BGZcwsGw7yUUWBB399FQt5FRRCF9DHJZ/HuqUQoJmBnz+EHI+XsVFEaF0aZ9vZDxPuooiXsx+geY5fCtuXmooiYBH5eaGL96KKLUczLe+qt+XIfCii36D8BlU5RRECW1WoosNI5YeootRjKCw5RRaAy1FFEQJ/9k=",
+        "imageAlt":"Panchakavya Villaku",
+        "cartText":"Panchagavya Vilakku",
+        "btnName":"Add to Cart",
+        "price":"₹ 10"
     },
-    {
-        "cardName" : "Pasu Ghee",
-        "imageSrc" : "F:/udhayamenterprises/client/src/components/images/pgavyavillaku.jpg",
-        "imageAlt": "Panchakavya Villaku",
-        "cartText" : "Handmade Cow Dung Panchagavya Diyas Vilakku Deepam",
-        "btnName" : "Add to Cart",
-        "price" : "Rs.10"
-    }
+    
+        {
+            "cardName":"Pure Desi Cow Ghee",
+            "imageSrc":"https://shop.jivabhumi.com/image/cache/catalog/1l-desi-ghee-500x500%2022-500x350.jpg",
+            "imageAlt":"Pure Desi Cow Ghee",
+            "cartText":"Pure Desi Cow Ghee",
+            "btnName":"Add to Cart",
+            "price":"₹ 20"
+        },
+        {
+            "cardName":"Pure Desi Cow Ghee",
+            "imageSrc":"https://shop.jivabhumi.com/image/cache/catalog/1l-desi-ghee-500x500%2022-500x350.jpg",
+            "imageAlt":"Pure Desi Cow Ghee",
+            "cartText":"Pure Desi Cow Ghee",
+            "btnName":"Add to Cart",
+            "price":"₹ 20"
+        },
+        {
+            "cardName":"Pure Desi Cow Ghee",
+            "imageSrc":"https://shop.jivabhumi.com/image/cache/catalog/1l-desi-ghee-500x500%2022-500x350.jpg",
+            "imageAlt":"Pure Desi Cow Ghee",
+            "cartText":"Pure Desi Cow Ghee",
+            "btnName":"Add to Cart",
+            "price":"₹ 20"
+        },
+        {
+            "cardName":"Pure Desi Cow Ghee",
+            "imageSrc":"https://shop.jivabhumi.com/image/cache/catalog/1l-desi-ghee-500x500%2022-500x350.jpg",
+            "imageAlt":"Pure Desi Cow Ghee",
+            "cartText":"Pure Desi Cow Ghee",
+            "btnName":"Add to Cart",
+            "price":"₹ 20"
+        }
+
+
+
+
 ]
