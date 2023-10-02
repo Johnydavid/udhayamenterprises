@@ -20,11 +20,7 @@ function App() {
         <Route path="/home" exact element={<Home />}></Route>
         <Route path="/products" exact element={<Products  data = {data} />}></Route>
         <Route path="/contact" exact element={<Contact/>}></Route>
-                </Routes>
-
-   
-
-
+      </Routes>
     </div>
   );
 }

@@ -1,0 +1,7 @@
+.form_container {
+  width: 25vw;
+  max-height: 50vh;
+  justify-content: center;
+  align-items: center;
+  margin-left: 50vw;
+}
